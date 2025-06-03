@@ -11,3 +11,4 @@ def menu():
 5. Mostrar bebida.
 6. Salir.
 """)
+    return
