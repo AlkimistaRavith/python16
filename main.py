@@ -7,6 +7,8 @@ def main():
     bebida = crear_bebida()
 
     while True:
+        menu()
+        
         opcion = input("Opción: ")
 
         if opcion == "1":
