@@ -1,14 +1,11 @@
 
-
-
-
 def menu():
     print("""
-1. Elegir base líquida del jugo.
-2. Elegir endulzante.
-3. Agregar fruta.
-4. Quitar fruta.
-5. Mostrar bebida.
-6. Salir.
+1. elegir un tipo de base liquida
+2. elegir endulzante 
+3. agregar frutas
+4. quitar frutas
+5. mostrar bebida
+6. salir      
+       
 """)
-    return

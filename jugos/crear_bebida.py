@@ -1,10 +1,9 @@
 
 
-
-def crear_bebida ():
-    crear_bebida = {
-        "base" : "",
-        "endulzante" : "",
-        "frutas": ()
+def crear_bebida():
+    vaso = {
+        "base":"",
+        "endulzante":"",
+        "frutas": []
     }
-    return
+    return vaso
